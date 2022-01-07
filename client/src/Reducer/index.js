@@ -1,3 +1,4 @@
+
 import { REGISTER } from "../Actions/actions"
 
 
@@ -19,3 +20,4 @@ const initialState = {
   };
   
   export default rootReducer;
+
